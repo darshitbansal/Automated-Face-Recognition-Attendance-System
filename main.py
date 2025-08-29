@@ -34,7 +34,6 @@ def recognize_face(captured_image):
     return None
 
 
-
 # Function to mark attendance with the total time spent
 def mark_attendance(student_name, total_time, file='attendance.xlsx'):
     total_seconds = total_time.total_seconds()
