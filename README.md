@@ -1,5 +1,5 @@
 # Automated Real-Time Face Recognition and Attendance Tracking System
-
+---
 
 ## 📌 Overview  
 🚀 An AI-powered **real-time face recognition and attendance tracking system** that uses computer vision to automatically identify individuals, track their presence, and log attendance efficiently.
