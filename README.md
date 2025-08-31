@@ -34,19 +34,18 @@ Automated-Face-Recognition-Attendance/
 - **NumPy** → for matrix operations  
 - **Pandas / openpyxl** → for handling attendance Excel file  
 
----
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 -- Add GUI Dashboard for attendance visualization.
 -- Send email/SMS notifications for absentees.
 -- Store attendance in Database (MySQL/PostgreSQL).
 -- Integrate with web-based portal for teachers/admins.
 
-🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Developed by Darshit Bansal
